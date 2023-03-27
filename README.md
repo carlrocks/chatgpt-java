@@ -12,16 +12,13 @@ OpenAI ChatGPT 的SDK。觉得不错请右上角Star
 
 
 
-#### 项目合作洽谈请联系微信 plexpt（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
+#### 项目合作洽谈请联系微信 ldf714（在微信里自行搜索并添加好友，请注明来意，如有关于仓库问题需讨论请参考下文入群讨论，不要加此微信）。
 
 ### QQ群：645132635
-
-### 购买**ChatGPT**成品独享帐号：[购买](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
 
 # 问题表
 
 [共约67万个问题，欢迎拿去炼丹](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/question/README.md)
-
 
 
 点击👇🏻传送链接，购买云服务器炼丹：
