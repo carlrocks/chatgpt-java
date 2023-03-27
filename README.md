@@ -242,7 +242,7 @@ chatGPT = ChatGPT.builder()
 | 显示`That model is currently overloaded with other requests. You can retry your request` |                   模型过载，官方炸了，重试                   |
 |                      生成的图片不能用？                      |                   图片是它瞎编的，洗洗睡吧                   |
 |                          如何充值？                          |                   用国外信用卡，国内的不行                   |
-|                    没有国外信用卡怎么办？                    |         用这个, 扫码免费开卡并充值![]([pic/depay.jpg](https://depay.depay.one/web-app/register-h5?invitCode=785471&lang=zh-cn))         |
+|                    没有国外信用卡怎么办？                    |         用这个, 扫码免费开卡并充值!https://depay.depay.one/web-app/register-h5?invitCode=785471&lang=zh-cn        |
 |                         返回http 401                         |                     API 密钥写错了/没写                      |
 |                         返回http 429                         |            请求超速了，或者官方超载了。充钱可解决            |
 |                         返回http 500                         |                          服务器炸了                          |
